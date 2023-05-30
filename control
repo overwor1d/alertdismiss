@@ -1,0 +1,9 @@
+Package: jp.nemo.alertdismiss
+Name: AlertDismiss
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: The UIAlertController disappears without ever appearing.
+Maintainer: overwor1d
+Author: overwor1d
+Section: Tweaks
